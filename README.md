@@ -1,6 +1,10 @@
 # Google Keep notes backup
 
-This Python scripts allos to backup your Google Keep notes to local text files.
+This Python scripts allows to backup your Google Keep notes to local text files.
+
+## Author
+
+Robert Nowotniak <rnowotniak@gmail.com>
 
 ## Installation
 
